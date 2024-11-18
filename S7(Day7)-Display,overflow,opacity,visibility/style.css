@@ -1,0 +1,92 @@
+#mainHeading{
+    color:  limegreen;
+    background-color: sienna;
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 10px 10px 10px black;
+    box-shadow: 10px 10px 10px black;
+    border: 10px solid teal;
+    border-radius: 40px;
+}
+
+#businessmen{
+    background-color: lightgray;
+}
+
+#MukeshAmbani{
+    width: 250px;
+    height: 320px;
+}
+
+#GautamAdani{
+    width: 250px;
+    height: 320px;
+}
+
+#SavitriJindal{
+    width: 250px;
+    height: 320px;
+}
+
+#ShivNadar{
+    width: 250px;
+    height: 320px;
+}
+
+#DilipShangavi{
+    width: 250px;
+    height: 320px;
+}
+
+#MADesc{
+    display: inline-block;
+    width: 900px;
+    height: 300px;
+    overflow: auto;
+    text-align: justify;
+}
+
+#Adani{
+    text-align: right;
+    width: 1120px;
+}
+
+#GADesc{
+    display: inline-block;
+    width: 900px;
+    height: 300px;
+    overflow: auto;
+    text-align: justify;
+}
+
+
+#SJDesc{
+    display: inline-block;
+    width: 900px;
+    height: 300px;
+    overflow: auto;
+    text-align: justify;
+}
+
+
+#SNDesc{
+    display: inline-block;
+    width: 900px;
+    height: 300px;
+    overflow: auto;
+    text-align: justify;
+}
+
+#Shiv{
+    text-align: right;
+    width: 1080px;
+}
+
+#DSDesc{
+    display: inline-block;
+    width: 900px;
+    height: 300px;
+    overflow: auto;
+    text-align: justify;
+}
